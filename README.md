@@ -8,7 +8,7 @@ In this paper, we propose FocalConvNet}, a focal modulation network integrated w
 
 ## 3.) Training and Testing
 ## 3.1)Data Preparation
-Follow the data preparation procedure in the officail dataset repository "[Kvasir-Capusle](https://github.com/simula/kvasir-capsule)"
+Follow the data preparation procedure in the official dataset repository "[Kvasir-Capusle](https://github.com/simula/kvasir-capsule)"
 
 ## 3.2)Training and testing
 1.) The architecture for the FocalConvNet is defined in focalconv.py 
