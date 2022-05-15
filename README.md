@@ -12,7 +12,7 @@ Follow the data preparation procedure in the official dataset repository "[Kvasi
 
 ## 3.2)Training and testing
 1.) The architecture for the FocalConvNet is defined in focalconv.py 
-2.) run the training script in the official dataset repo and replace the model definition in Line 325 with the FocalConvNet.
+2.) run the training script in the official dataset repo and replace the model definition in [Line 325](https://github.com/simula/kvasir-capsule/blob/master/experiments/resnet152_train.py) with the architecture of FocalConvNet.
 ## 4.) FAQ
 Please feel free to contact me if you need any advice or guidance in using this work ([E-mail](abhisheksrivastava2397@gmail.com)) 
 
