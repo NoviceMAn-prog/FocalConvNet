@@ -1,7 +1,7 @@
 # Video Capsule Endoscopy Classification using Focal Modulation Guided Convolutional Neural Network
 ## 2.) Overview
 ### 2.1.)Introduction
-In this paper, we propose FocalConvNet}, a focal modulation network integrated with lightweight convolutional layers for the classification of small bowel anatomical landmarks and luminal findings. FocalConvNet leverages focal modulation to attain global context and allows global-local spatial interactions throughout the forward pass. Moreover, the convolutional block with its intrinsic inductive/learning bias and capacity to extract hierarchical features allows our FocalConvNet to achieve favourable results with high throughput.
+In our paper, we have proposed FocalConvNet, a focal modulation network integrated with lightweight convolutional layers for the classification of small bowel anatomical landmarks and luminal findings. FocalConvNet leverages focal modulation to attain global context and allows global-local spatial interactions throughout the forward pass. Moreover, the convolutional block with its intrinsic inductive/learning bias and capacity to extract hierarchical features allows our FocalConvNet to achieve favourable results with high throughput.
 
 ## 2.2.) Model Architecture of Our FocalConvNet
 ![](FocalConvNet_v2.jpeg)
